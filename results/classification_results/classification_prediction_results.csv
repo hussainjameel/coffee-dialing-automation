@@ -1,0 +1,43 @@
+Actual Quality Class,Predicted Quality Class,Prediction Status
+High,High,Correctly Classified
+Medium,Medium,Correctly Classified
+Medium,Medium,Correctly Classified
+Medium,Medium,Correctly Classified
+High,High,Correctly Classified
+Medium,Medium,Correctly Classified
+High,Medium,Misclassified
+Medium,Medium,Correctly Classified
+Medium,Medium,Correctly Classified
+Medium,Medium,Correctly Classified
+Medium,Low,Misclassified
+Medium,Medium,Correctly Classified
+High,High,Correctly Classified
+Medium,Medium,Correctly Classified
+Low,Medium,Misclassified
+Medium,Medium,Correctly Classified
+Medium,Low,Misclassified
+High,Medium,Misclassified
+High,Medium,Misclassified
+Medium,Medium,Correctly Classified
+Medium,Medium,Correctly Classified
+Medium,Low,Misclassified
+Medium,Medium,Correctly Classified
+Medium,Medium,Correctly Classified
+Medium,Medium,Correctly Classified
+Medium,Medium,Correctly Classified
+High,Medium,Misclassified
+Low,Medium,Misclassified
+Medium,Medium,Correctly Classified
+Medium,High,Misclassified
+Low,Low,Correctly Classified
+Low,Medium,Misclassified
+Low,Medium,Misclassified
+High,Medium,Misclassified
+High,High,Correctly Classified
+Medium,Medium,Correctly Classified
+Medium,Medium,Correctly Classified
+High,Medium,Misclassified
+Low,Medium,Misclassified
+Medium,High,Misclassified
+Medium,Medium,Correctly Classified
+Medium,Medium,Correctly Classified

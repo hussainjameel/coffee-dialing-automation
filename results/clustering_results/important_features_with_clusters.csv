@@ -1,0 +1,208 @@
+Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Overall,Country,Processing Method,Processing Simple,Category One Defects,Category Two Defects,Cluster,Cluster Name
+8.58,8.5,8.42,8.58,8.25,8.42,8.58,Colombia,Double Anaerobic Washed,Washed,0,3,0,Premium
+8.5,8.5,7.92,8.0,7.92,8.25,8.5,Taiwan,Washed / Wet,Washed,0,0,0,Premium
+8.33,8.42,8.08,8.17,7.92,8.17,8.33,Laos,Semi Washed,Washed,0,2,0,Premium
+8.08,8.17,8.17,8.25,8.17,8.08,8.25,Costa Rica,Washed / Wet,Washed,0,0,0,Premium
+8.33,8.33,8.08,8.25,7.92,7.92,8.25,Colombia,"Honey,Mossto",Honey,0,2,0,Premium
+8.33,8.33,8.25,7.83,7.83,8.17,8.25,Guatemala,Washed / Wet,Washed,0,2,0,Premium
+8.33,8.17,8.08,8.0,7.83,8.25,8.25,Taiwan,Washed / Wet,Washed,0,0,0,Premium
+8.25,8.25,8.17,8.0,7.92,8.08,8.08,Taiwan,Natural / Dry,Natural,0,1,0,Premium
+8.08,8.08,8.25,8.08,7.92,8.0,8.25,Taiwan,Washed / Wet,Washed,0,0,0,Premium
+8.08,8.17,8.08,8.17,8.0,8.0,8.0,"Tanzania, United Republic Of",Washed / Wet,Washed,0,0,0,Premium
+8.08,8.25,8.0,8.08,7.92,7.92,8.0,Ethiopia,Natural / Dry,Natural,0,1,0,Premium
+8.08,8.0,8.0,7.75,8.25,8.17,8.0,Guatemala,Natural / Dry,Natural,0,1,0,Premium
+8.08,8.0,8.08,8.08,8.0,8.0,8.0,Taiwan,Washed / Wet,Washed,0,0,0,Premium
+7.67,8.17,8.0,8.33,8.0,8.0,8.0,Ethiopia,Natural / Dry,Natural,0,2,0,Premium
+8.08,8.0,8.08,7.92,8.08,8.0,8.0,Colombia,Washed / Wet,Washed,0,0,0,Premium
+8.17,8.08,8.0,7.92,8.0,7.92,8.0,Taiwan,Pulped natural / honey,Honey,0,0,0,Premium
+8.17,8.08,7.92,8.17,7.75,7.92,8.08,Ethiopia,Washed / Wet,Washed,0,2,0,Premium
+8.0,8.17,8.0,7.92,7.92,7.92,8.17,Taiwan,Natural / Dry,Natural,0,0,0,Premium
+8.08,8.17,7.75,7.92,7.83,8.0,8.17,Taiwan,Natural / Dry,Natural,0,1,0,Premium
+8.17,8.0,7.92,7.92,8.17,7.75,7.92,"Tanzania, United Republic Of",Washed / Wet,Washed,0,0,0,Premium
+8.0,7.92,8.08,7.92,7.75,8.0,8.08,Guatemala,Natural / Dry,Natural,0,0,0,Premium
+8.08,8.0,7.92,7.92,8.0,7.83,7.92,Taiwan,Natural / Dry,Natural,0,0,0,Premium
+7.67,8.0,7.83,8.0,8.08,8.0,8.08,Thailand,Pulped natural / honey,Honey,0,5,0,Premium
+8.08,8.0,7.83,8.17,7.75,7.83,8.0,Colombia,,Other,0,2,0,Premium
+7.83,8.0,7.92,8.0,8.0,7.92,7.92,Taiwan,Washed / Wet,Washed,0,0,0,Premium
+7.83,8.08,7.83,7.92,8.0,7.83,8.0,Brazil,Pulped natural / honey,Honey,2,3,0,Premium
+7.92,7.92,8.0,7.92,7.83,7.92,8.0,Taiwan,Natural / Dry,Natural,0,2,0,Premium
+8.17,8.08,7.92,8.0,7.58,7.83,7.92,Taiwan,Natural / Dry,Natural,0,0,0,Premium
+8.0,8.0,8.0,7.92,7.75,7.92,7.92,Taiwan,Natural / Dry,Natural,0,0,0,Premium
+8.0,7.92,8.0,7.83,7.67,8.0,8.0,United States (Hawaii),Washed / Wet,Washed,0,0,0,Premium
+8.0,8.0,7.83,7.83,7.75,7.92,8.08,Taiwan,Washed / Wet,Washed,0,0,0,Premium
+7.92,8.0,7.83,7.92,7.83,7.83,8.0,Taiwan,Washed / Wet,Washed,0,0,0,Premium
+8.08,8.17,7.67,7.83,7.67,7.92,8.0,Taiwan,Washed / Wet,Washed,0,0,0,Premium
+7.67,7.83,7.83,8.0,8.0,8.0,8.0,Ethiopia,Washed / Wet,Washed,0,3,0,Premium
+8.0,8.08,8.0,8.0,7.67,7.75,7.83,Ethiopia,Natural / Dry,Natural,0,4,0,Premium
+7.92,7.75,7.83,8.17,8.0,7.75,7.83,Ethiopia,Washed / Wet,Washed,0,1,0,Premium
+8.0,7.92,7.83,7.92,7.83,7.83,7.92,Taiwan,Washed / Wet,Washed,0,0,0,Premium
+8.25,8.08,7.83,7.75,7.67,7.75,7.92,Taiwan,Pulped natural / honey,Honey,0,0,0,Premium
+8.17,7.75,7.83,7.58,7.92,8.0,8.0,Kenya,Washed / Wet,Washed,0,1,0,Premium
+7.75,7.92,7.75,8.0,7.83,7.92,8.0,Taiwan,Washed / Wet,Washed,0,0,0,Premium
+8.0,7.92,7.83,7.92,7.75,7.75,7.92,Taiwan,Natural / Dry,Natural,0,0,0,Premium
+8.0,8.08,7.67,7.75,7.92,7.83,7.83,Taiwan,Washed / Wet,Washed,0,0,0,Premium
+8.0,7.92,7.67,8.0,7.75,7.83,7.92,Taiwan,Washed / Wet,Washed,0,5,0,Premium
+8.0,7.92,7.75,7.75,7.75,7.92,7.92,Uganda,Washed / Wet,Washed,0,1,0,Premium
+7.92,8.0,7.92,8.0,7.58,7.75,7.83,Taiwan,,Other,0,0,0,Premium
+8.17,8.08,7.83,7.67,7.67,7.75,7.83,Taiwan,Natural / Dry,Natural,0,0,0,Premium
+7.67,8.08,7.67,8.0,7.92,7.83,7.83,Guatemala,Washed / Wet,Washed,0,1,0,Premium
+7.67,8.0,7.75,7.92,8.0,7.83,7.83,Guatemala,Washed / Wet,Washed,0,4,0,Premium
+7.83,7.92,7.75,8.0,7.75,7.75,7.92,Guatemala,Washed / Wet,Washed,0,1,0,Premium
+7.92,7.92,7.83,7.83,7.75,7.83,7.83,Taiwan,Washed / Wet,Washed,0,2,0,Premium
+8.0,8.0,7.75,7.75,7.67,7.75,7.92,Taiwan,Natural / Dry,Natural,0,0,0,Premium
+7.83,7.92,7.75,7.83,7.83,7.83,7.83,Indonesia,,Other,0,2,0,Premium
+8.0,8.0,7.83,7.83,7.58,7.83,7.75,Peru,Washed / Wet,Washed,0,0,0,Premium
+7.92,7.75,7.75,7.92,7.83,7.83,7.83,"Tanzania, United Republic Of",Washed / Wet,Washed,0,0,0,Premium
+7.83,7.83,7.67,7.67,7.83,8.0,8.0,Taiwan,Natural / Dry,Natural,0,0,0,Premium
+7.67,7.92,7.92,7.83,7.75,7.83,7.83,Taiwan,Washed / Wet,Washed,0,0,0,Premium
+7.83,7.92,7.75,7.92,7.67,7.83,7.83,Brazil,Double Carbonic Maceration / Natural,Natural,0,5,0,Premium
+7.83,7.83,7.75,7.92,7.83,7.75,7.83,Panama,Washed / Wet,Washed,0,5,0,Premium
+7.92,8.08,7.67,7.92,7.67,7.75,7.75,Taiwan,Pulped natural / honey,Honey,0,0,0,Premium
+7.67,8.0,7.67,7.83,7.92,7.67,7.92,Guatemala,Washed / Wet,Washed,0,1,0,Premium
+7.83,8.0,7.67,7.83,7.75,7.75,7.83,Guatemala,Natural / Dry,Natural,0,2,0,Premium
+7.58,7.83,7.5,7.67,7.83,7.67,8.58,Costa Rica,Washed / Wet,Washed,0,2,2,Standard
+7.83,7.83,7.75,7.75,7.75,7.75,7.92,Taiwan,Pulped natural / honey,Honey,0,0,2,Standard
+8.17,7.83,7.67,7.83,7.67,7.67,7.75,Taiwan,Pulped natural / honey,Honey,0,0,0,Premium
+7.92,7.75,7.67,7.67,7.83,7.75,8.0,Nicaragua,Natural / Dry,Natural,1,2,2,Standard
+8.08,7.83,7.67,7.67,7.67,7.75,7.92,Taiwan,Washed / Wet,Washed,0,2,2,Standard
+7.83,8.0,7.67,7.75,7.67,7.75,7.92,Taiwan,Natural / Dry,Natural,0,0,2,Standard
+8.0,7.83,7.75,7.67,7.58,7.83,7.92,Vietnam,Natural / Dry,Natural,0,0,2,Standard
+7.75,7.83,7.67,7.83,7.75,7.75,7.92,Costa Rica,Washed / Wet,Washed,0,0,2,Standard
+7.75,7.92,7.83,7.75,7.75,7.75,7.75,Taiwan,Pulped natural / honey,Honey,0,0,0,Premium
+7.83,7.92,7.75,7.75,7.75,7.75,7.75,Honduras,Washed / Wet,Washed,0,3,0,Premium
+7.92,7.83,7.75,7.92,7.58,7.67,7.83,Ethiopia,Washed / Wet,Washed,0,9,2,Standard
+8.08,7.92,7.75,7.83,7.5,7.58,7.83,Taiwan,Natural / Dry,Natural,0,0,2,Standard
+7.83,8.0,7.5,7.75,7.75,7.75,7.83,Taiwan,Washed / Wet,Washed,0,1,2,Standard
+7.67,7.83,7.75,7.75,7.83,7.75,7.75,Guatemala,Washed / Wet,Washed,0,5,2,Standard
+7.92,7.83,7.75,7.92,7.5,7.67,7.75,United States (Hawaii),Washed / Wet,Washed,3,7,2,Standard
+7.83,7.75,7.58,7.92,8.0,7.5,7.75,Ethiopia,Natural / Dry,Natural,0,4,2,Standard
+7.83,7.83,7.83,7.83,7.67,7.67,7.67,El Salvador,Pulped natural / honey,Honey,0,4,2,Standard
+7.75,7.75,7.75,7.75,7.83,7.67,7.83,Colombia,Washed / Wet,Washed,0,1,2,Standard
+7.67,7.67,7.83,7.83,7.67,7.75,7.83,Indonesia,Wet Hulling,Other,0,1,2,Standard
+7.58,7.92,7.67,7.75,7.83,7.75,7.75,Guatemala,Washed / Wet,Washed,0,1,2,Standard
+7.92,7.92,7.58,7.75,7.58,7.67,7.83,Madagascar,Washed / Wet,Washed,0,0,2,Standard
+7.75,7.75,7.58,7.83,7.75,7.75,7.75,Honduras,Washed / Wet,Washed,0,2,2,Standard
+7.58,7.92,7.58,7.83,7.75,7.67,7.75,Guatemala,Washed / Wet,Washed,0,2,2,Standard
+7.83,7.92,7.83,7.58,7.58,7.67,7.67,Taiwan,Pulped natural / honey,Honey,0,2,2,Standard
+7.92,7.75,7.67,7.75,7.75,8.0,7.92,Taiwan,Natural / Dry,Natural,0,0,0,Premium
+7.67,7.83,7.67,7.83,7.75,7.67,7.67,Guatemala,Washed / Wet,Washed,0,2,2,Standard
+7.67,7.92,7.67,7.75,7.67,7.58,7.75,Guatemala,Washed / Wet,Washed,0,2,2,Standard
+7.75,7.75,7.75,7.67,7.75,7.67,7.67,Honduras,Pulped natural / honey,Honey,0,0,2,Standard
+7.58,7.67,7.75,7.75,7.75,7.75,7.75,"Tanzania, United Republic Of",Washed / Wet,Washed,0,3,2,Standard
+8.0,7.75,7.5,7.67,7.67,7.67,7.75,Ethiopia,Washed / Wet,Washed,1,1,2,Standard
+7.75,7.58,7.58,7.92,7.67,7.75,7.75,"Tanzania, United Republic Of",Washed / Wet,Washed,0,2,2,Standard
+7.67,7.83,7.58,7.92,7.67,7.67,7.67,Colombia,Washed / Wet,Washed,0,3,2,Standard
+7.67,7.92,7.58,7.75,7.67,7.58,7.75,Costa Rica,Washed / Wet,Washed,0,2,2,Standard
+7.83,7.83,7.58,7.67,7.67,7.58,7.75,Guatemala,Natural / Dry,Natural,0,0,2,Standard
+7.58,7.83,7.58,7.75,7.67,7.75,7.75,Guatemala,Washed / Wet,Washed,0,2,2,Standard
+7.75,7.67,7.58,7.75,7.75,7.67,7.75,Thailand,Natural / Dry,Natural,0,3,2,Standard
+7.67,7.75,7.67,7.75,7.67,7.67,7.67,Colombia,Washed / Wet,Washed,0,1,2,Standard
+7.58,7.83,7.67,7.67,7.67,7.67,7.75,Guatemala,Natural / Dry,Natural,0,4,2,Standard
+7.58,7.92,7.5,7.67,7.75,7.67,7.75,Guatemala,Washed / Wet,Washed,0,4,2,Standard
+7.83,7.67,7.5,7.92,7.5,7.67,7.75,Ethiopia,Washed / Wet,Washed,0,12,2,Standard
+7.92,7.75,7.42,7.58,7.92,7.67,7.58,Colombia,Washed / Wet,Washed,2,5,2,Standard
+7.67,7.92,7.58,7.58,7.58,7.75,7.75,United States (Hawaii),Washed / Wet,Washed,0,3,2,Standard
+7.67,7.92,7.67,7.58,7.67,7.67,7.58,Colombia,Pulped natural / honey,Honey,0,1,2,Standard
+7.67,7.67,7.58,7.67,7.83,7.58,7.75,Mexico,Washed / Wet,Washed,4,12,2,Standard
+7.83,7.75,7.5,7.58,7.67,7.67,7.67,Colombia,,Other,1,9,2,Standard
+7.67,7.67,7.75,7.75,7.5,7.67,7.67,Taiwan,Washed / Wet,Washed,0,0,2,Standard
+7.83,7.83,7.67,7.58,7.58,7.58,7.58,Myanmar,Natural / Dry,Natural,0,1,2,Standard
+7.58,7.75,7.67,7.83,7.5,7.67,7.67,Taiwan,Pulped natural / honey,Honey,0,0,2,Standard
+7.67,7.67,7.58,7.75,7.67,7.67,7.67,Honduras,Natural / Dry,Natural,0,1,2,Standard
+7.58,7.67,7.5,7.75,7.75,7.67,7.67,Taiwan,Natural / Dry,Natural,0,0,2,Standard
+7.58,7.75,7.58,7.75,7.58,7.67,7.67,Taiwan,Pulped natural / honey,Honey,0,0,2,Standard
+7.58,7.83,7.58,7.67,7.58,7.58,7.75,Guatemala,Washed / Wet,Washed,0,4,2,Standard
+7.75,7.67,7.58,7.58,7.58,7.67,7.67,Honduras,Washed / Wet,Washed,0,5,2,Standard
+7.75,7.75,7.5,7.58,7.83,7.5,7.58,Colombia,Washed / Wet,Washed,0,2,2,Standard
+7.42,7.83,7.58,7.67,7.67,7.75,7.58,Thailand,Washed / Wet,Washed,0,0,2,Standard
+7.42,7.42,7.42,8.0,7.92,7.67,7.67,Ethiopia,Washed / Wet,Washed,0,11,2,Standard
+7.67,7.67,7.5,7.67,7.58,7.67,7.67,Thailand,Washed / Wet,Washed,0,0,2,Standard
+7.75,7.75,7.5,7.5,7.58,7.58,7.75,Uganda,Washed / Wet,Washed,0,3,2,Standard
+7.75,7.92,7.67,7.92,7.75,7.83,7.92,Taiwan,Washed / Wet,Washed,0,0,0,Premium
+7.75,7.67,7.58,7.5,7.67,7.5,7.67,Uganda,Washed / Wet,Washed,0,5,2,Standard
+7.58,7.67,7.5,7.75,7.5,7.58,7.75,Taiwan,Pulped natural / honey,Honey,0,0,2,Standard
+7.5,7.75,7.58,7.75,7.67,7.58,7.5,Guatemala,Washed / Wet,Washed,0,0,2,Standard
+7.58,7.67,7.58,7.75,7.42,7.58,7.75,Taiwan,Washed / Wet,Washed,0,1,2,Standard
+7.67,7.67,7.42,7.75,7.5,7.75,7.58,Colombia,Washed / Wet,Washed,0,0,2,Standard
+7.58,7.75,7.42,7.67,7.5,7.75,7.67,Costa Rica,Washed / Wet,Washed,0,3,2,Standard
+7.75,7.83,7.58,7.58,7.58,7.5,7.5,Taiwan,Washed / Wet,Washed,0,1,2,Standard
+7.92,7.92,7.75,7.33,7.58,7.5,7.33,Thailand,Washed / Wet,Washed,0,16,2,Standard
+7.92,7.67,7.42,7.5,7.67,7.58,7.5,"Tanzania, United Republic Of",Washed / Wet,Washed,0,8,2,Standard
+7.58,7.5,7.5,7.83,7.67,7.5,7.67,Brazil,Natural / Dry,Natural,0,4,2,Standard
+7.75,7.75,7.58,7.67,7.42,7.5,7.58,Taiwan,Washed / Wet,Washed,0,1,2,Standard
+7.67,7.67,7.58,7.67,7.58,7.58,7.5,Colombia,Anaerobico 1000h,Other,0,2,2,Standard
+7.67,7.75,7.67,7.58,7.5,7.58,7.5,Honduras,Washed / Wet,Washed,0,3,2,Standard
+7.75,7.58,7.58,7.58,7.5,7.58,7.67,Honduras,Washed / Wet,Washed,0,5,2,Standard
+7.75,7.75,7.5,7.75,7.5,7.42,7.5,Taiwan,Natural / Dry,Natural,0,2,2,Standard
+7.67,7.67,7.5,7.58,7.58,7.5,7.67,Taiwan,Washed / Wet,Washed,0,0,2,Standard
+7.67,7.75,7.33,7.67,7.58,7.5,7.58,Laos,Natural / Dry,Natural,0,7,2,Standard
+7.67,7.67,7.5,7.58,7.58,7.5,7.58,Honduras,Washed / Wet,Washed,0,7,2,Standard
+7.75,7.58,7.58,7.58,7.58,7.5,7.5,Honduras,Washed / Wet,Washed,0,2,2,Standard
+8.0,7.67,7.42,7.58,7.58,7.42,7.33,Colombia,Washed / Wet,Washed,0,1,2,Standard
+7.5,7.67,7.58,7.58,7.5,7.5,7.58,Taiwan,Pulped natural / honey,Honey,0,0,2,Standard
+7.75,7.5,7.42,7.67,7.58,7.5,7.5,Mexico,Washed / Wet,Washed,2,1,2,Standard
+7.58,7.5,7.5,7.67,7.58,7.5,7.58,Colombia,Washed / Wet,Washed,0,3,2,Standard
+7.67,7.5,7.42,7.75,7.42,7.58,7.58,Taiwan,,Other,0,0,2,Standard
+7.67,7.58,7.5,7.5,7.58,7.5,7.5,Honduras,Washed / Wet,Washed,0,4,2,Standard
+7.17,7.92,7.58,7.5,7.58,7.67,7.42,Thailand,Washed / Wet,Washed,0,5,2,Standard
+7.58,7.42,7.58,7.5,7.67,7.75,7.33,Vietnam,Pulped natural / honey,Honey,0,4,2,Standard
+7.33,7.58,7.25,7.33,7.75,8.17,7.33,Nicaragua,Natural / Dry,Natural,5,1,2,Standard
+7.33,7.5,7.25,7.92,7.75,7.58,7.42,Costa Rica,Pulped natural / honey,Honey,0,1,2,Standard
+7.58,7.67,7.58,7.5,7.33,7.5,7.5,Colombia,Washed / Wet,Washed,0,2,2,Standard
+7.33,7.58,7.58,7.5,7.67,7.67,7.33,Thailand,Washed / Wet,Washed,1,0,2,Standard
+7.5,7.58,7.5,7.42,7.5,7.58,7.58,Thailand,Natural / Dry,Natural,0,0,2,Standard
+7.67,7.58,7.33,7.5,7.58,7.5,7.5,Honduras,Washed / Wet,Washed,0,2,2,Standard
+7.67,7.67,7.42,7.42,7.42,7.5,7.5,Taiwan,Natural / Dry,Natural,0,0,2,Standard
+7.67,7.58,7.42,7.42,7.5,7.5,7.5,Taiwan,Washed / Wet,Washed,0,2,2,Standard
+7.5,7.58,7.42,7.58,7.5,7.58,7.42,Nicaragua,Washed / Wet,Washed,0,0,2,Standard
+7.67,7.33,7.17,7.67,7.83,7.5,7.33,El Salvador,Washed / Wet,Washed,0,2,2,Standard
+7.75,7.67,7.17,7.67,7.42,7.42,7.42,Panama,Washed / Wet,Washed,0,0,2,Standard
+7.5,7.58,7.5,7.5,7.67,7.42,7.33,Brazil,Natural / Dry,Natural,0,1,2,Standard
+7.33,7.58,7.5,7.5,7.5,7.58,7.5,United States (Hawaii),Washed / Wet,Washed,0,1,2,Standard
+7.67,7.42,7.5,7.5,7.67,7.42,7.33,Mexico,Washed / Wet,Washed,0,0,2,Standard
+7.58,7.58,7.33,7.5,7.58,7.42,7.5,Honduras,Washed / Wet,Washed,0,8,2,Standard
+7.42,7.42,7.58,7.42,7.58,7.5,7.58,Taiwan,Washed / Wet,Washed,0,2,2,Standard
+7.58,7.58,7.42,7.42,7.5,7.5,7.42,Nicaragua,Washed / Wet,Washed,0,0,2,Standard
+7.5,7.5,7.33,7.5,7.5,7.42,7.58,Vietnam,Washed / Wet,Washed,0,0,1,Below Average
+7.5,7.5,7.42,7.42,7.42,7.67,7.42,El Salvador,Washed / Wet,Washed,0,10,2,Standard
+7.33,7.67,7.25,7.67,7.83,7.42,7.17,El Salvador,Washed / Wet,Washed,0,0,2,Standard
+7.67,7.58,7.42,7.5,7.33,7.42,7.42,Taiwan,Natural / Dry,Natural,0,1,1,Below Average
+7.67,7.5,7.33,7.58,7.33,7.42,7.42,Peru,Washed / Wet,Washed,0,3,1,Below Average
+7.75,7.42,7.33,7.5,7.33,7.5,7.33,United States (Hawaii),Washed / Wet,Washed,1,5,1,Below Average
+7.5,7.5,7.42,7.5,7.25,7.5,7.5,Kenya,Washed / Wet,Washed,0,2,1,Below Average
+7.67,7.5,7.25,7.5,7.5,7.33,7.42,Honduras,Washed / Wet,Washed,0,8,1,Below Average
+7.5,7.67,7.33,7.5,7.25,7.33,7.5,Taiwan,Washed / Wet,Washed,0,0,1,Below Average
+7.33,7.42,7.42,7.5,7.42,7.5,7.5,Taiwan,Pulped natural / honey,Honey,0,3,1,Below Average
+7.5,7.58,7.42,7.42,7.25,7.42,7.42,Taiwan,Washed / Wet,Washed,0,1,1,Below Average
+7.17,7.5,7.42,7.42,7.58,7.5,7.42,Thailand,Washed / Wet,Washed,0,0,1,Below Average
+7.42,7.42,7.42,7.33,7.58,7.33,7.5,Costa Rica,Washed / Wet,Washed,1,8,1,Below Average
+7.42,7.42,7.42,7.33,7.5,7.42,7.5,Guatemala,Washed / Wet,Washed,0,2,1,Below Average
+7.67,7.33,7.25,7.67,7.42,7.25,7.42,Indonesia,Pulped natural / honey,Honey,0,0,1,Below Average
+7.5,7.5,7.33,7.5,7.33,7.33,7.42,Peru,Washed / Wet,Washed,0,2,1,Below Average
+7.33,7.42,7.33,7.42,7.58,7.42,7.42,Guatemala,Washed / Wet,Washed,0,1,1,Below Average
+7.25,7.42,7.42,7.5,7.42,7.42,7.42,Taiwan,Pulped natural / honey,Honey,0,0,1,Below Average
+7.5,7.5,7.25,7.42,7.42,7.42,7.33,Vietnam,Pulped natural / honey,Honey,0,4,1,Below Average
+7.5,7.5,7.42,7.33,7.33,7.33,7.42,Brazil,Pulped natural / honey,Honey,0,2,1,Below Average
+7.42,7.5,7.58,7.33,7.33,7.25,7.33,Brazil,Natural / Dry,Natural,0,0,1,Below Average
+7.33,7.5,7.33,7.42,7.42,7.42,7.33,Colombia,Washed / Wet,Washed,0,0,1,Below Average
+7.58,7.42,7.25,7.25,7.5,7.33,7.33,Mexico,Washed / Wet,Washed,2,2,1,Below Average
+7.33,7.42,7.25,7.42,7.42,7.33,7.42,Costa Rica,Washed / Wet,Washed,0,4,1,Below Average
+7.42,7.5,7.33,7.33,7.33,7.33,7.33,Taiwan,Pulped natural / honey,Honey,0,0,1,Below Average
+7.33,7.5,7.42,7.33,7.33,7.25,7.33,Taiwan,Pulped natural / honey,Honey,0,0,1,Below Average
+7.33,7.42,7.25,7.33,7.5,7.42,7.17,Thailand,Washed / Wet,Washed,2,1,1,Below Average
+7.42,7.25,7.33,7.42,7.33,7.33,7.25,Thailand,Natural / Dry,Natural,0,5,1,Below Average
+7.25,7.25,7.42,7.25,7.42,7.42,7.17,Thailand,Washed / Wet,Washed,0,0,1,Below Average
+7.42,7.25,7.25,7.42,7.17,7.33,7.33,Colombia,Washed / Wet,Washed,0,2,1,Below Average
+7.42,7.42,7.25,7.25,7.17,7.25,7.25,Brazil,Natural / Dry,Natural,0,1,1,Below Average
+7.42,7.33,7.33,7.5,7.08,7.0,7.17,El Salvador,Natural / Dry,Natural,0,7,1,Below Average
+7.25,7.25,7.17,7.33,7.08,7.25,7.17,Nicaragua,Washed / Wet,Washed,0,3,1,Below Average
+7.42,7.17,7.0,7.08,7.42,7.17,7.17,Nicaragua,Washed / Wet,Washed,0,5,1,Below Average
+7.25,7.25,7.17,7.33,7.0,7.17,7.25,Colombia,Washed / Wet,Washed,0,3,1,Below Average
+7.5,7.25,7.17,7.17,7.17,7.08,7.0,Peru,Washed / Wet,Washed,0,11,1,Below Average
+7.08,7.25,7.08,7.42,7.42,7.08,7.0,El Salvador,Natural / Dry,Natural,0,7,1,Below Average
+7.25,7.17,7.17,7.08,7.17,7.17,7.17,Brazil,Natural / Dry,Natural,0,2,1,Below Average
+7.17,7.17,6.92,7.17,7.42,7.17,7.08,Brazil,Natural / Dry,Natural,0,4,1,Below Average
+7.33,7.08,6.75,7.17,7.42,7.17,7.08,Nicaragua,Natural / Dry,Natural,0,12,1,Below Average
+7.25,7.17,7.08,7.0,7.08,7.08,7.0,Laos,Washed / Wet,Washed,0,11,1,Below Average
+6.5,6.75,6.75,7.17,7.08,7.0,6.83,El Salvador,Natural / Dry,Natural,0,13,1,Below Average
+7.25,7.08,6.67,6.83,6.83,6.67,6.67,Brazil,SEMI-LAVADO,Washed,0,1,1,Below Average

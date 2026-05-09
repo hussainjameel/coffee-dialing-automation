@@ -1,0 +1,5 @@
+Model,Mean R² Score,Std Deviation
+Linear Regression,0.8228,0.0688
+Ridge Regression,0.843,0.0413
+Random Forest,0.8314,0.04
+Gradient Boosting,0.8418,0.0382
