@@ -121,18 +121,19 @@ coffee-dialling-automation/
 │
 ├── data/
 │   ├── raw/
-│   ├── cleaned/
-│   └── outputs/
+│      └── Arabica Dataset
 │
-├── notebooks/
-│   ├── classification.ipynb
-│   ├── regression_v1.ipynb
-│   ├── regression_v2_cleaned.ipynb
-│   └── clustering.ipynb
+├── models/
+|   ├── classication
+│   ├── regression
+│   └── clustering
 │
-├── charts/
-│   └── exported_visualisations/
-│
+├── results/
+│   └── classification_results
+│   └── regression_results
+|   └── clustering_results
+|
+|
 ├── reports/
 │   └── project_reports/
 │
